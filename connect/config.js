@@ -4,7 +4,7 @@ const chalk = require("chalk")
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/Ariel.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6285321822875','6282118022072']
+global.owner = ['628xxx.com','628xxxpornhub']
 
 global.rkyt = []
 global.banUser = ['628123456789@s.whatsapp.net']
