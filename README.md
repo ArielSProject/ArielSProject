@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://ArielSProject.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Aespi Botz+Ariel+SP+🗿🖱️"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Aespi Botz+Ariel+SP+🙏"
             alt="Subscribe Yt ArielSP Sus"
         />
     </a>
